@@ -1,1 +1,2 @@
-This is my newspaper website 
+KDD Newspaper
+News/content website
